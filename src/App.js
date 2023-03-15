@@ -1,7 +1,9 @@
+import Filter from "./components/Filter/Filter";
+
 function App() {
   return (
     <div>
-      App
+      <Filter/>
     </div>
   );
 }
